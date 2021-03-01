@@ -1,4 +1,4 @@
-# Disturbed Tools
+# Disturbed Tools V6.0
 This is a multitool made for windows 7 to windows 10 devices
 # ASCII Generator
 ![disturbed-tools-ascii](https://user-images.githubusercontent.com/68452252/109438994-30a37f80-79f2-11eb-8159-3da5c7bfabc2.png)
@@ -7,7 +7,7 @@ This is a multitool made for windows 7 to windows 10 devices
 # Geo-IP Lookup
 ![disturbed-tools-geo-ip](https://user-images.githubusercontent.com/68452252/109438999-3600ca00-79f2-11eb-8d85-e178fe981ac2.png)
 # Home Page
- ![disturbed-tools-home](https://user-images.githubusercontent.com/68452252/109439012-4c0e8a80-79f2-11eb-9864-ef6fd01f3347.png)
+ ![disturbed-tools-home](https://user-images.githubusercontent.com/68452252/109441910-47e76a80-79fc-11eb-828c-3e21c58586c4.png)
  # News
 ![disturbed-tools-newss](https://user-images.githubusercontent.com/68452252/109439025-5892e300-79f2-11eb-9b88-46d3e95b4ded.png)
 # Port Scanner
